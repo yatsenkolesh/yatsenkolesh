@@ -3,7 +3,7 @@
 I'm Alex, a software engineer with over 10 years of experience.
 My CV - https://panolek.com/cv
 
-## My Open-Source projects
+## My Open-Source works
 
 ### ABRouter - software for A/B testing. 
 https://github.com/abrouter/abrouter - the product itself
