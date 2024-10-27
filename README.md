@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 I'm Alex, a software engineer with over 10 years of experience.
+
 My CV - https://panolek.com/cv
+
+Tech: PHP, Go, NodeJS, React
 
 ## My Open-Source works
 
