@@ -16,7 +16,7 @@ https://github.com/abrouter/abrouter-php-client - PHP client
 https://github.com/abrouter/laravel-abtest - Laravel client with over 100 stars
 
 
-### ABRouter - email set up & privacy software
+### ProxiedMail - email set up & privacy software
 https://github.com/proxied-mail/gapi - part of the system written in Go
 
 https://github.com/proxied-mail/proxiedmail-php-client - public PHP Client
